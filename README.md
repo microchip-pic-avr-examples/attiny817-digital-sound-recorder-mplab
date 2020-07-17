@@ -34,7 +34,7 @@ The example is explained in more details in the application note [AN2547](http:/
 ## Operation
 
 1. Download the zip file or clone the example to get the source code.
-2. Open `AVR42777DigitalSoundRecorder.X` in MPLAB.
+2. Open `attiny817-digital-sound-recorder-mplab.X` in MPLAB.
 3. Connect the ATtiny817 Xplained Pro with your computer. 
 4. Make sure the kit is selected as the tool to be programmed under project settings.
 5. Press the make and program button to program the device.
