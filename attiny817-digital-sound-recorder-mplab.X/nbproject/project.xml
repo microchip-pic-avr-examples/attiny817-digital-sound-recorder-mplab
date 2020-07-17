@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>AVR42777DigitalSoundRecorder</name>
+            <name>attiny817-digital-sound-recorder-mplab</name>
             <creation-uuid>5a13ee4d-67ab-471e-a5df-12dec965813b</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>
