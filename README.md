@@ -2,7 +2,7 @@
 
 # ATtiny817 Digital Sound Recorder using DAC with evaluation kit
 
-This example demonstrates a digital ound recorder using ADC for sampling and DAC for playback. Samples timed at a defined frequency, controlled by a timer and event system. SPI used to store raw data on an SD card, driver included. This example demonstrates direct register read and write operations for peripheral initialization, and therefore does not use peripheral drivers.
+This example demonstrates a digital sound recorder using ADC for sampling and DAC for playback. Samples are timed at a defined frequency, controlled by a timer and event system. SPI is used to store raw data on an SD card, driver included. This example demonstrates direct register read and write operations for peripheral initialization, and therefore does not use peripheral drivers.
 
 The example is explained in more details in the application note [AN2547](http://ww1.microchip.com/downloads/en/AppNotes/00002547A.pdf).
 
