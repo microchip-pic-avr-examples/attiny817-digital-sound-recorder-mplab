@@ -71,8 +71,11 @@
             "EVSYS"
         ],
         "keywords": [
-            "",
-            ""
+            "Playback",
+            "Recording",
+            "Audio",
+            "I/O1",
+            "OLED"
         ],
         "additionalData": {
             "longDescription": {
